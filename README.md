@@ -1,6 +1,6 @@
 <!-- Profile Button Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-ashton-oda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
