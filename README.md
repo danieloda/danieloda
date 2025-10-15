@@ -1,16 +1,43 @@
-## Hi there 👋
+<!-- Profile Button Section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a>
+</p>
 
-<!--
-**danieloda/danieloda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Senior Data Engineer at [BitBoundaire](https://bitboundaire.com/en).  
+Focused on building large-scale data platforms, cloud-native pipelines, and infrastructure automation for analytics and machine learning.
+
+---
+
+## 🧠 Core Skills
+
+- Advanced data engineering on Databricks and Delta Lakehouse  
+- Pipeline orchestration with Airflow and NiFi  
+- Infrastructure as Code with Terraform  
+- Cloud data solutions on AWS and Azure  
+- Performance optimization with Spark and PySpark  
+- Data quality, governance, and compliance (SOX)  
+- Automation with Python and SQL  
+- Experience integrating APIs, LLMs, and real-time processing
+
+---
+
+## 🧰 Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20NiFi-003366?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
